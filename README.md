@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+Hello! I'am a 14 years old and I am a C++/C# developer.
+
+- 🔭 I’m currently working on Vaxel Client (discord.gg/zM2Qmsh9V7)
+- 🌱 I’m currently learning Java
+- 💬 Ask me about anything :D
+- 📫 How to reach me: on Twitter (twitter.com/D1og0x) or Discord (D1og0#2252)
+- ⚡ Fun fact: I am 14 years old.
+
 <!--
 **D1og0/D1og0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
