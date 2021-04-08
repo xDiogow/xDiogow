@@ -1,6 +1,4 @@
-### Hi there 👋
-
-Hello! I'am a 14 years old and I am a C++/C# developer.
+### Hello! I'am a 14 years old and I am a C++/C# developer. 👋
 
 - 🔭 I’m currently working on Vaxel Client (discord.gg/zM2Qmsh9V7)
 - 🌱 I’m currently learning Java
