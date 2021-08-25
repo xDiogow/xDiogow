@@ -4,7 +4,6 @@
 - 💬 Ask me about anything :D
 - 📫 How to reach me: on Twitter (twitter.com/D1og0x) or Discord (D1og0#4050)
 - ⚡ Fun fact: I am 14 years old.
-- 😄 Gift me D1og0.dev <3
 
 
 <!--
