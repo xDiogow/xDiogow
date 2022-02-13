@@ -1,9 +1,8 @@
-### Hello! I'am 14 years old and I am a C++/C# developer. 👋
+### Hello! I am a C#/Java developer. 👋
 
 - 🌱 I’m currently learning Java
 - 💬 Ask me about anything :D
-- 📫 How to reach me: on Twitter (twitter.com/D1og0x) or Discord (D1og0#4050)
-- ⚡ Fun fact: I am 14 years old.
+- 📫 How to reach me: D1og0#4050
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=D1og0&count_private=true&theme=dracula)
 
