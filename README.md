@@ -1,4 +1,4 @@
-### Hello! I am a C#/Java developer. 👋
+### Hello! I am a C#/Python developer. 👋
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=D1og0&count_private=true&theme=dracula)
 
