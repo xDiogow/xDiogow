@@ -24,8 +24,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=xdiogow&show_icons=true&theme=dark&locale=en" alt="xdiogow" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=xdiogow&theme=dark" alt="xdiogow" /></p>
-
----
-
-### 🛠 My Configurations
-If you're curious about how I’ve customized my terminal, check out my `.bashrc` file here: 🔗 [View .bashrc](https://pastebin.com/ikKq7SAL)
